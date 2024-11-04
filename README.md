@@ -7,3 +7,5 @@
 - [0x02. Minimum Operations](0x02-minimum_operations 
 )
 - [0x03. Log Parsing ](0x03-log_parsing)
+
+- [0x05-nqueens](0x05-nqueens)
