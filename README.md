@@ -8,4 +8,6 @@
 )
 - [0x03. Log Parsing ](0x03-log_parsing)
 
+- [0x04. UTF-8 Validation](0x04. UTF-8 Validation)
+
 - [0x05-nqueens](0x05-nqueens)
