@@ -9,4 +9,7 @@
 - [0x03. Log Parsing ](0x03-log_parsing)
 
 - [0x04-utf8_validation](0x04-utf8_validation)
+
 - [0x05-nqueens](0x05-nqueens)
+
+- [0x06-starwars_api](0x06-starwars_api)
